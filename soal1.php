@@ -1,5 +1,5 @@
 <?php
-$nilai = 65;
+$nilai = 85;
 
 if (nilai >=80) {
     echo "lulus dengan predikat A";
@@ -11,4 +11,5 @@ if (nilai >=80) {
     echo "tidak lulus";
 }
 ?>
+
 
